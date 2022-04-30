@@ -23,3 +23,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - [ ] Random question order
 - [ ] Add previous scores
 - [ ] Add Wiki documentation
+- [ ] Quiz Timer
+
