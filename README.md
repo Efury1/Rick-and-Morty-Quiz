@@ -19,4 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # To Do
 - [ ] Button to return to start of quiz
+- [ ] Add score as percentage
+- [ ] Random question order
 - [ ] Add previous scores
+- [ ] Add Wiki documentation
