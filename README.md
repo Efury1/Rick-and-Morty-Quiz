@@ -1,6 +1,6 @@
 # Rick and Morty Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is part of the #100DaysofCode Challenge.
 
 ## Available Scripts
 
