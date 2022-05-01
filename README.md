@@ -1,6 +1,6 @@
 # Rick and Morty Quiz App
 
-This project is part of the #100DaysofCode Challenge.
+### Day 2 of 100 Days of Code
 
 ## Available Scripts
 
