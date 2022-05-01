@@ -1,6 +1,6 @@
 # Rick and Morty Quiz App
 
-### Day 2 of 100 Days of Code
+<a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a> Day 2 of 100 Days of Code
 
 ## Available Scripts
 
